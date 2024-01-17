@@ -3,10 +3,10 @@
 ## 📝 Usage
 Add the following link to your AdGuard or Pi-hole blocklists.
 
-If you want to use it another way here is a good detailed explanation [github.com/anudeepND/blacklist](https://github.com/anudeepND/blacklist?tab=readme-ov-file#usage)
-
 [link](https://raw.githubusercontent.com/Luois45/VRChatAnalyticsBlocklist/master/hosts.txt) | `https://raw.githubusercontent.com/Luois45/VRChatAnalyticsBlocklist/master/hosts.txt`
 --- | ---
+
+If you want to use it another way here is a good detailed explanation [github.com/anudeepND/blacklist](https://github.com/anudeepND/blacklist?tab=readme-ov-file#usage)
 
 ## 🌟 Credits
 Domains provided by DubyaDude: [github.com/DubyaDude/VRChat-Analytics-Blocker](https://github.com/DubyaDude/VRChat-Analytics-Blocker/blob/master/VRChat-Analytics-Blocker/src/Constants.cs)
