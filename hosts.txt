@@ -24,25 +24,25 @@
 #
 
 # VRChat Specific (Proven to use/have used)
-127.0.0.1 api.amplitude.com
-127.0.0.1 api2.amplitude.com
-127.0.0.1 api.lab.amplitude.com
-127.0.0.1 api.eu.amplitude.com
-127.0.0.1 regionconfig.amplitude.com
-127.0.0.1 regionconfig.eu.amplitude.com
-127.0.0.1 o1125869.ingest.sentry.io
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.lab.amplitude.com
+0.0.0.0 api.eu.amplitude.com
+0.0.0.0 regionconfig.amplitude.com
+0.0.0.0 regionconfig.eu.amplitude.com
+0.0.0.0 o1125869.ingest.sentry.io
 
 # VRChat Specific (Hasn't used yet, added for future proofing)
-127.0.0.1 api3.amplitude.com
-127.0.0.1 cdn.amplitude.com
-127.0.0.1 info.amplitude.com
-127.0.0.1 static.amplitude.com
+0.0.0.0 api3.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 static.amplitude.com
 
 # Unity Specific
-127.0.0.1 api.uca.cloud.unity3d.com
-127.0.0.1 config.uca.cloud.unity3d.com
-127.0.0.1 perf-events.cloud.unity3d.com
-127.0.0.1 public.cloud.unity3d.com
-127.0.0.1 cdp.cloud.unity3d.com
-127.0.0.1 data-optout-service.uca.cloud.unity3d.com
-127.0.0.1 ecommerce.iap.unity3d.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 public.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 ecommerce.iap.unity3d.com
