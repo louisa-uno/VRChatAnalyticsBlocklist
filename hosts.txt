@@ -2,10 +2,10 @@
 # A DNS Blocklist for VRChat Analytics
 #
 # Project home page:
-# https://github.com/Luois45/VRChatAnalyticsBlocklist
+# https://github.com/louisa-uno/VRChatAnalyticsBlocklist
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/Luois45/VRChatAnalyticsBlocklist/master/hosts.txt
+# https://raw.githubusercontent.com/louisa-uno/VRChatAnalyticsBlocklist/master/hosts.txt
 #
 # License:
 # GNU Affero General Public License (https://www.gnu.org/licenses/agpl-3.0)
@@ -17,10 +17,10 @@
 # https://github.com/DubyaDude/VRChat-Analytics-Blocker/blob/master/VRChat-Analytics-Blocker/src/Constants.cs
 #
 # Further changes and contributors maintained in the commit history at
-# https://github.com/Luois45/VRChatAnalyticsBlocklist/commits/master
+# https://github.com/louisa-uno/VRChatAnalyticsBlocklist/commits/master
 #
 # Contribute:
-# Create an issue at https://github.com/Luois45/VRChatAnalyticsBlocklist/issues
+# Create an issue at https://github.com/louisa-uno/VRChatAnalyticsBlocklist/issues
 #
 
 # VRChat Specific (Proven to use/have used)
